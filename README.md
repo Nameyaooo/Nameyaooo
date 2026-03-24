@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm JUYAO LI 
+# Hi! I'm JUYAO LI 
 
 ### 🎓 CS Student @ UNSW
 
