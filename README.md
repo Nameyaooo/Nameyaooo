@@ -31,17 +31,6 @@ A bilingual English and Simplified Chinese platform for discovering and comparin
 - Cloud sync with conflict handling and resilient automatic saving
 - **Tech:** React, TypeScript, Globe.GL, Cloudflare Workers, D1
 
-### [Personal Portfolio](https://juyaoli.com) - Bilingual Portfolio Website
-
-A bilingual portfolio showcasing my projects, technical skills, photography, and interests.
-
-- English and Simplified Chinese pages with language switching
-- Responsive interface built for desktop and mobile
-- Deployed globally through Cloudflare Pages
-- **Tech:** Next.js, TypeScript, Tailwind CSS
-
-**[View source code](https://github.com/Nameyaooo/juyao-portfolio)**
-
 ## Technical Skills
 
 ### Programming
