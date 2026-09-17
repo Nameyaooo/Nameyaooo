@@ -42,15 +42,6 @@ A bilingual portfolio showcasing my projects, technical skills, photography, and
 
 **[View source code](https://github.com/Nameyaooo/juyao-portfolio)**
 
-### Toohak - Real-Time Quiz Application
-
-A five-person UNSW Agile team project focused on real-time quiz creation, participation, and result workflows.
-
-- Built backend modules and API endpoints
-- Designed input validation and standardized data structures
-- Performed functional testing and documented application logic
-- Source code remains private in accordance with academic integrity requirements
-
 ## Technical Skills
 
 ### Programming
